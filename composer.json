@@ -1,0 +1,17 @@
+{
+    "name": "oleksii.grygorchuk/client",
+    "authors": [
+        {
+            "name": "hbmman",
+            "email": "alekseymanhbm@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.1"
+    }
+}
